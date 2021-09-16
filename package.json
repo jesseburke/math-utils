@@ -1,0 +1,7 @@
+{
+    "name": "@jesseburke/math-utils",
+    "version": "0.0.0",
+    "dependencies": {
+        "expr-eval": "^2.0.2"
+    }
+}
